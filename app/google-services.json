@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "171000463694",
+    "project_id": "shebachat-e14ee",
+    "storage_bucket": "shebachat-e14ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171000463694:android:8b3ea015b2faba06e95e1f",
+        "android_client_info": {
+          "package_name": "com.example.shebachat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo7-LvNe2OH0tSMK6z84cV63Qua5X6zVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
